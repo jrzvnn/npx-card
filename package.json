@@ -4,14 +4,14 @@
   "description": "A personal card for Joriz Ivann Villanueva (@jrzvnn)",
   "main": "card.js",
   "bin": {
-    "anmol": "./card.js"
+    "jrzvnn": "./card.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jrzvnn/npx-card"
   },
   "scripts": {
-    "test": "node card.js",
+    "dev": "node card.js",
     "pub": "npm version major & npm publish"
   },
   "dependencies": {
