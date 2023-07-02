@@ -1,4 +1,4 @@
-# 🃏 Jrzvn NPX Card 
+# 🃏 Jrzvnn npx Card 
 
 This npx card is a simple command-line tool that displays a customizable business card in your terminal.
 
