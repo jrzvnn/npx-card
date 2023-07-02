@@ -1,14 +1,14 @@
 {
-  "name": "anmol",
+  "name": "jrzvnn",
   "version": "4.0.0",
-  "description": "A personal card for Anmol Pratap Singh (@anmol098)",
+  "description": "A personal card for Joriz Ivann Villanueva (@jrzvnn)",
   "main": "card.js",
   "bin": {
     "anmol": "./card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anmol098/npx_card.git"
+    "url": "git+https://github.com/jrzvnn/npx-card"
   },
   "scripts": {
     "test": "node card.js",
@@ -33,6 +33,9 @@
     "npx card",
     "business card"
   ],
-  "author": "Anmol Singh <hi@anmolsingh.me> (https://anmolsingh.me/)",
-  "license": "ISC"
+  "author": "Joriz Ivann Villanueva<jrzvnn@gmail.com> ",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
